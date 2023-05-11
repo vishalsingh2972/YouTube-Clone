@@ -12,15 +12,15 @@ https://github.com/vishalsingh2972/Youtube-Clone/assets/106817047/e6e2dc78-36b4-
 
 By building the frontend of the main page of YouTube really allowed me to apply the newly learnt skills using HTML and CSS. Below are examples of the things I used to build this project:
 
--buttons
--spans
--divs
--classes
--transitions
--nested flexbox
--css grids
--relative and absolute positions
--plethora of CSS styling tools
+- buttons
+- spans
+- divs
+- classes
+- transitions
+- nested flexbox
+- css grids
+- relative and absolute positions
+- plethora of CSS styling tools
 
 
 
