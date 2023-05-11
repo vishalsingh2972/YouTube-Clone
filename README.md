@@ -2,7 +2,9 @@
 
 ### About the Project
 
-This project is an attempt to apply the intermediate HTML and CSS skills I have learned to build a replica of the website YouTube.com, which I use on a daily basis not only for recreational purposes but also to be informed and educated with.
+This project is a clone of the popular video-sharing website, YouTube.com, built using intermediate-level HTML and CSS skills.
+
+I use YouTube.com daily not only for entertainment but also to stay informed and educated on various topics. As a result, building a replica of the website was an exciting challenge that allowed me to gain valuable experience in HTML and CSS.
 
 ### Project Demo
 
