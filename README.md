@@ -4,14 +4,10 @@
 
 This project is a clone of the Youtube Website. This project was intended to learn about HTML and CSS and use their properties to design a website.
 
-https://github.com/vishalsingh2972/Youtube-Clone/assets/106817047/11b67bed-4538-4449-8205-987a674dd6d8
+## Project Demo
 
-## Links
+https://github.com/vishalsingh2972/Youtube-Clone/assets/106817047/e6e2dc78-36b4-4848-899d-470a6cb78a68
 
-Live URL: [Preview Site](http://127.0.0.1:5500/youtubeFinal.html)
 
-## Built With
 
-    - HTML
-    - CSS
 
